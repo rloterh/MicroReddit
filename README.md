@@ -2,7 +2,7 @@
 
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-> This project is part of Microverse HTML/CSS curriculum
+> This project is part of Microverse Ruby on Rails curriculum
 
 
 This project at the moment is a console based application and mimics the ActiveRecord features of [Reddit](https://www.reddit.com), developed using Ruby on Rails. It involves 3m main models: User, Posts and Comments. The association of the models are expressed, and their attributes are validated.
