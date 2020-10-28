@@ -1,8 +1,6 @@
-# README
+# MicroReddit
 
 ![](https://img.shields.io/badge/Microverse-blueviolet)
-
- ## MicroReddit
 
 > This project is part of Microverse HTML/CSS curriculum
 
