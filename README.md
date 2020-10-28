@@ -39,7 +39,7 @@ This project at the moment is a console based application and mimics the ActiveR
 
 Contributions, issues and feature requests are welcome!
 
-Feel free to check the [issues page](issues/).
+Feel free to check the [issues page](https://github.com/rloterh/MicroReddit/issues).
 
 ## Show your support
 
@@ -47,8 +47,8 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Following example on [Reddit](https://reddit.com)
+- Following example on [Reddit.com](https://reddit.com)
 
 ## 📝 License
 
-This project is [MIT](lic.url) licensed.
+This project is [MIT](https://opensource.org/licenses/MIT) licensed.
