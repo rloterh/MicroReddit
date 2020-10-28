@@ -1,24 +1,56 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+![](https://img.shields.io/badge/Microverse-blueviolet)
 
-Things you may want to cover:
+ ## MicroReddit
 
-* Ruby version
+> This project is part of Microverse HTML/CSS curriculum
 
-* System dependencies
 
-* Configuration
+This project at the moment is a console based application and mimics the ActiveRecord features of [Reddit](https://www.reddit.com), developed using Ruby on Rails. It involves 3m main models: User, Posts and Comments. The association of the models are expressed, and their attributes are validated.
 
-* Database creation
 
-* Database initialization
+## Setup Instructions & Getting Started
 
-* How to run the test suite
+- [Clone](https://github.com/rloterh/MicroReddit.git) this project
+- Install dependencies using the command **_bundle install_**
+- Run the command **_rails console_**
+- Setup temporally isntance of the User, Post or Comment to test their values and associations
+  
 
-* Services (job queues, cache servers, search engines, etc.)
+## Built Mainly With
 
-* Deployment instructions
+- Ruby 2.7.2
+- Rails 6.0.3.4
 
-* ...
+
+## Authors
+👤 **Robert Loterh**
+
+- Github: [@githubhandle](https://github.com/rloterh )
+- Twitter: [@twitterhandle](https://twitter.com/RLoterh )
+- Linkedin: [linkedin](https://www.linkedin.com/in/robert-loterh-30b265135/)
+
+👤 **Akintoye Olamide**
+
+- Github: [@githubhandle](https://github.com/AkintoyeOlamide )
+- Twitter: [@twitterhandle](https://twitter.com/@toshactL )
+- Linkedin: [linkedin](https://www.linkedin.com/in/akintoye-olamide-baa80b1a4/)
+
+## 🤝 Contributing
+
+Contributions, issues and feature requests are welcome!
+
+Feel free to check the [issues page](issues/).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+- Following example on [Reddit](https://reddit.com)
+
+## 📝 License
+
+This project is [MIT](lic.url) licensed.
